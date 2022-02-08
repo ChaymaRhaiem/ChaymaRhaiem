@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a BSC in CS 
+### Hi there 👋 I'm Chayma and I study CS 
 
 <!--
 **ChaymaRhaiem/ChaymaRhaiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 </p>
 -💬  She/They  <br/>
 <a href="https://drive.google.com/file/d/1Om42uZzpDn_hHHFO7_DUdeFUs4Z7LIrV/view" target="_blank" rel="noopener noreferrer"> Resume </a>
-<div  style="vertical-align:top; margin:4px" >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaRhaiem&theme=tokyonight) </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaRhaiem&theme=tokyonight)

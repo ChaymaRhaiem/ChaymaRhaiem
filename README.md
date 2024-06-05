@@ -13,6 +13,6 @@ Here are some ideas to get you started:
  <a href="mailto:rhaiem.chayma@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 -💬  
-<a href="https://drive.google.com/file/d/1Om42uZzpDn_hHHFO7_DUdeFUs4Z7LIrV/view" target="_blank" rel="noopener noreferrer"> Resume </a>
+<a href="[https://drive.google.com/file/d/1Om42uZzpDn_hHHFO7_DUdeFUs4Z7LIrV/view](https://drive.google.com/file/d/1alrLBpEytR791b8C_djbNbZqRqCZ2B8q/view?usp=sharing)" target="_blank" rel="noopener noreferrer"> Resume </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaRhaiem&theme=tokyonight)
